@@ -1,7 +1,7 @@
 package uvc
 
 /*
-#cgo CFLAGS: -std=gnu99
-#cgo linux pkg-config: libusb-1.0
+#cgo CFLAGS: -std=gnu99 -Os
+#cgo pkg-config: libuvc
 */
 import "C"
