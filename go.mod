@@ -1,4 +1,4 @@
-module github.com/ginuerzh/go-uvc
+module github.com/kevsmith/go-uvc
 
 go 1.16
 
